@@ -1,0 +1,2 @@
+# swastika
+Swastika's blog
